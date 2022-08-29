@@ -1,0 +1,14 @@
+C:\Users\ihaba\Desktop\repos\PracticeLinq.1\PracticeLinq.1\bin\Debug\netcoreapp3.1\PracticeLinq.1.exe
+C:\Users\ihaba\Desktop\repos\PracticeLinq.1\PracticeLinq.1\bin\Debug\netcoreapp3.1\PracticeLinq.1.deps.json
+C:\Users\ihaba\Desktop\repos\PracticeLinq.1\PracticeLinq.1\bin\Debug\netcoreapp3.1\PracticeLinq.1.runtimeconfig.json
+C:\Users\ihaba\Desktop\repos\PracticeLinq.1\PracticeLinq.1\bin\Debug\netcoreapp3.1\PracticeLinq.1.runtimeconfig.dev.json
+C:\Users\ihaba\Desktop\repos\PracticeLinq.1\PracticeLinq.1\bin\Debug\netcoreapp3.1\PracticeLinq.1.dll
+C:\Users\ihaba\Desktop\repos\PracticeLinq.1\PracticeLinq.1\bin\Debug\netcoreapp3.1\PracticeLinq.1.pdb
+C:\Users\ihaba\Desktop\repos\PracticeLinq.1\PracticeLinq.1\obj\Debug\netcoreapp3.1\PracticeLinq.1.csproj.AssemblyReference.cache
+C:\Users\ihaba\Desktop\repos\PracticeLinq.1\PracticeLinq.1\obj\Debug\netcoreapp3.1\PracticeLinq.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihaba\Desktop\repos\PracticeLinq.1\PracticeLinq.1\obj\Debug\netcoreapp3.1\PracticeLinq.1.AssemblyInfoInputs.cache
+C:\Users\ihaba\Desktop\repos\PracticeLinq.1\PracticeLinq.1\obj\Debug\netcoreapp3.1\PracticeLinq.1.AssemblyInfo.cs
+C:\Users\ihaba\Desktop\repos\PracticeLinq.1\PracticeLinq.1\obj\Debug\netcoreapp3.1\PracticeLinq.1.csproj.CoreCompileInputs.cache
+C:\Users\ihaba\Desktop\repos\PracticeLinq.1\PracticeLinq.1\obj\Debug\netcoreapp3.1\PracticeLinq.1.dll
+C:\Users\ihaba\Desktop\repos\PracticeLinq.1\PracticeLinq.1\obj\Debug\netcoreapp3.1\PracticeLinq.1.pdb
+C:\Users\ihaba\Desktop\repos\PracticeLinq.1\PracticeLinq.1\obj\Debug\netcoreapp3.1\PracticeLinq.1.genruntimeconfig.cache
